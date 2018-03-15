@@ -1,0 +1,7 @@
+C:\Users\whois\source\repos\TVLab\TVLab\obj\Debug\TVLab.csprojResolveAssemblyReference.cache
+C:\Users\whois\source\repos\TVLab\TVLab\obj\Debug\TVLab.csproj.CoreCompileInputs.cache
+C:\Users\whois\source\repos\TVLab\TVLab\bin\Debug\TVLab.exe.config
+C:\Users\whois\source\repos\TVLab\TVLab\bin\Debug\TVLab.exe
+C:\Users\whois\source\repos\TVLab\TVLab\bin\Debug\TVLab.pdb
+C:\Users\whois\source\repos\TVLab\TVLab\obj\Debug\TVLab.exe
+C:\Users\whois\source\repos\TVLab\TVLab\obj\Debug\TVLab.pdb
