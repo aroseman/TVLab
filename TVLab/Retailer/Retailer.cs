@@ -10,7 +10,7 @@ namespace TVLab.Retailer
     {
         
 
-        public Wholesaler.Wholesaler WS1 = new Wholesaler.Wholesaler();
+        public static Wholesaler.Wholesaler WS1 = new Wholesaler.Wholesaler();
 
         public static void Main(string[] args)
         {

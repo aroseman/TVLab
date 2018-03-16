@@ -49,7 +49,7 @@ namespace TVLab.Wholesaler
             }
             else if(budget <= 200 && budget > 0)
             {
-                
+                Console.WriteLine("Normal TV");
             }
             else
             {

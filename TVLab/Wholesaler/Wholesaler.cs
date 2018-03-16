@@ -12,7 +12,8 @@ namespace TVLab.Wholesaler
 
         public TV BuyTV(int budget)
         {
-            return new TV();
+            TVProxy proxy = new TVProxy();
+            return proxy.BuyTV(budget);
         }
         public string ShowTV(TV tv)
         {
